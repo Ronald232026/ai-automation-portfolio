@@ -35,7 +35,6 @@ MailerLite / Follow-up
 * MailerLite
 * Gmail
 * Telegram
-* Calendly
 * Webhooks
 * APIs
 
@@ -69,9 +68,6 @@ After approval, the email is sent automatically through Gmail.
 
 Newsletter and follow-up processes can be connected with MailerLite.
 
-### Scheduling
-
-Calendly provides an option for contacts to schedule a conversation.
 
 ## Skills Demonstrated
 
